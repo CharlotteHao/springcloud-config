@@ -1,3 +1,2 @@
 spring:
-  application:
-    name: cloud-config-center4
+  application: 4
